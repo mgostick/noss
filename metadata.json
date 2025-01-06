@@ -1,6 +1,7 @@
 {
   "name": "Move 'Take Screenshot'",
-  "description": "Move the 'Take Screenshot' menu item to Alt-Space-Enter does what it used to.",
+  "description": "Move the 'Take Screenshot' menu item so Alt_Space-Space does what it used to.",
+  "url": "https://github.com/mgostick/noss",
   "uuid": "matt_noss@gostick.ca",
   "shell-version": [
     "46"

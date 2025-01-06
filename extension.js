@@ -1,7 +1,7 @@
 /**
- * Alt-Space-Enter was burnt into my muscle memory to minimize the current window.
+ * Alt_Space-Space was burnt into my muscle memory to minimize the current window.
  * But then some brainiac decided to add "Take Screenshot" to the top of the window
- * menu. I tried to burn Alt-Space-Down-Enter into my memory, but it just didn't work.
+ * menu. I tried to burn Alt_Space-Down-Enter into my memory, but it just didn't work.
  *
  * I finally decided to find a solution...
  *
