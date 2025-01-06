@@ -5,14 +5,12 @@
  *
  * I finally decided to find a solution...
  *
- * Thanks to a kind anonymous reditor:
+ * Thanks to a kind anonymous redditor:
  * https://www.reddit.com/r/gnome/comments/vj2s53/possible_to_disable_new_take_screenshot_from/
  *
- * And an upto to date example of WindowMenu:
+ * And an up to date example of WindowMenu:
  * https://ezix.org/src/lyonel/unmess/src/branch/main/extension.js
- *
  */
-
 import {Extension, InjectionManager} from 'resource:///org/gnome/shell/extensions/extension.js';
 import * as WindowMenu from "resource:///org/gnome/shell/ui/windowMenu.js";
 
